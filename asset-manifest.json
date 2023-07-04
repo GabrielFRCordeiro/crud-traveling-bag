@@ -1,16 +1,18 @@
 {
   "files": {
-    "main.css": "/crud-traveling-bag/static/css/main.073c9b0a.css",
-    "main.js": "/crud-traveling-bag/static/js/main.34c05c74.js",
+    "main.css": "/crud-traveling-bag/static/css/main.6b1c798d.css",
+    "main.js": "/crud-traveling-bag/static/js/main.37c0b2e9.js",
     "static/js/787.a4123a10.chunk.js": "/crud-traveling-bag/static/js/787.a4123a10.chunk.js",
-    "static/media/logo.svg": "/crud-traveling-bag/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Roboto-Regular.ttf": "/crud-traveling-bag/static/media/Roboto-Regular.fc2b5060f7accec5cf74.ttf",
+    "static/media/travel-bag-128.svg": "/crud-traveling-bag/static/media/travel-bag-128.ef74a05840afadcbd69834fbc65e7190.svg",
+    "static/media/travel-bag-64.svg": "/crud-traveling-bag/static/media/travel-bag-64.f259a2b12c63bbbc01ca85c12577659d.svg",
     "index.html": "/crud-traveling-bag/index.html",
-    "main.073c9b0a.css.map": "/crud-traveling-bag/static/css/main.073c9b0a.css.map",
-    "main.34c05c74.js.map": "/crud-traveling-bag/static/js/main.34c05c74.js.map",
+    "main.6b1c798d.css.map": "/crud-traveling-bag/static/css/main.6b1c798d.css.map",
+    "main.37c0b2e9.js.map": "/crud-traveling-bag/static/js/main.37c0b2e9.js.map",
     "787.a4123a10.chunk.js.map": "/crud-traveling-bag/static/js/787.a4123a10.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.34c05c74.js"
+    "static/css/main.6b1c798d.css",
+    "static/js/main.37c0b2e9.js"
   ]
 }
